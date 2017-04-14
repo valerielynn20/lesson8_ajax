@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(04,14,2017)
 
 ### Student Name:  
-(First and Last Name)
+Valerie Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using AJAX to alter server-side data without disrupting the page 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://valerielynn20.github.io/lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Ajax allows client webpages to quickly interact and exchange data with a web server
+2. Data requested can be located on a third-party server
+3. Using Ajax to update data involves 4 steps
